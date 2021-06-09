@@ -1,0 +1,25 @@
+.categories img{
+    width: 100px;
+}
+.panda-slid .carousel-item{
+    background-color: #fceae8;
+    border-radius: 1em;
+}
+.panda-card{
+    border: 0;
+}
+.panda-card-footer{
+    border: 0;
+    background-color: white;
+}
+.button-color{
+    background-image: linear-gradient(#ff5197, #ff1c74);
+    border-radius: 10px;
+    color: white;
+}
+.price h3{
+    color: #ff1c74;
+}
+.subscribe-area{
+    background-color: #fceae8;
+}
